@@ -1,4 +1,4 @@
-# pkg-placeholder
+# deep-search-agent
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
